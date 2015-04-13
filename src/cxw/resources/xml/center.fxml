@@ -1,0 +1,5 @@
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<ImageView>
+	<Image url="@../images/wlty.jpg" preserveRatio="true" />
+</ImageView>

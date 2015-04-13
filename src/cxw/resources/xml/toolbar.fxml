@@ -1,0 +1,9 @@
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ToolBar?>
+<ToolBar xmlns:fx="http://javafx.com/fxml"
+         fx:controller="cxw.java.controller.CXWToolbarController"
+         fx:id="toolbar">
+	<Button text="上一张" onAction="#previous" />
+	<Button text="下一张" onAction="#next" />
+	<Button text="旋转" onAction="#rotate" />
+</ToolBar>
